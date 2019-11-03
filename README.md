@@ -1,8 +1,13 @@
 # My_Cryptocurrency_UniCoin
-This is a CryptoCurrency implementation from a Blockchain\n
-**The Blockchain support for this cryptocurrency is from other repository named 'my-first-Blockchain'...\n
-    What makes a Blockchain network work like a Cryptocurrency protocol????????\n
-    Answer:: Transactions..\n
+
+This is a CryptoCurrency implementation from a Blockchain
+
+**The Blockchain support for this cryptocurrency is from other repository named 'my-first-Blockchain'...
+
+What makes a Blockchain network work like a Cryptocurrency protocol????????
+
+Answer:: Transactions..
+    
 
 I have created 3 different nodes named 'Rehan','Shiva' and 'Hari' and connected them over a Blockchain inorder to 
 establish a transaction network..
